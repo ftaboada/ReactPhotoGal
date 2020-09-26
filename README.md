@@ -66,3 +66,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### PARA DESARROLLAR
+
+Esqueleto de un proyecto REACT para desarrollar en conjunto con https://github.com/ftaboada/imgServer el servidor de las imágenes.

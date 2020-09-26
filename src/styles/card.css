@@ -1,0 +1,10 @@
+.photo {
+  cursor: pointer;
+  grid-column: 2/4;
+  justify-self: center;
+  height: 88vh;
+  object-fit: contain;
+  margin-top: 6vh;
+  box-shadow: 5px 5px 35px #303030;
+  border-radius: 2px;
+}
